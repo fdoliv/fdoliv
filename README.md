@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hello! Welcome to my Github profile.
-## My name is Felipe Oliveira and my nickname is "Jhonny"!
 
 - 🔭 I’m currently working as software developer at Greenpaperless.com
 - 🌱 I’m currently learning Golang
