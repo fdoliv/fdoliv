@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Trabalhando como Engenheiro de Software 
-- 🌱 Aprendendo mais sobre Lua, DevSecOps, .
+- 🌱 Aprendendo mais sobre Lua, DevSecOps e dependabilidade .
 
 ## Minhas Skills
 
