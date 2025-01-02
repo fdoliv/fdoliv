@@ -71,5 +71,5 @@
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdoprof/)
-[![Gmail Badge](https://img.shields.io/badge/-felipe@dias.dev.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe@dias.dev.br)](mailto:felipe@dias.dev.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe@dias.dev.br)
 [![GitHub](https://img.shields.io/github/followers/fdoliv?label=follow&style=social)](https://github.com/fdoliv/)
