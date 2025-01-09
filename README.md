@@ -1,14 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=fdoliv&color=006bed)
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Engenheiro de Software 
-- 🌱 Aprendendo mais sobre Lua, DevSecOps e dependabilidade .
+Hi, I’m Felipe Oliveira, a software engineer with 8 years of experience in Java and backend development. I specialize in working with technologies like Spring Boot and DevOps tools, with a focus on building reliable systems and streamlining development processes. I’m particularly interested in cloud infrastructure, automation, and developing efficient solutions for complex challenges.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Toolbox**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,7 +46,7 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,7 +54,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 
-**Sistemas Operacionais**
+**Operating Systems**
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
