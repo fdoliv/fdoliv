@@ -63,10 +63,10 @@ Hi, I’m Felipe Oliveira, a software engineer with 8 years of experience in Jav
 
 <br/>
 
-<a href="https://github.com/fdoliv/" title="Perfil do Felipe">
+<!--<a href="https://github.com/fdoliv/" title="Perfil do Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdoliv&theme=dracula&show_icons=true" />
-</a>
-
+ </a>
+-->
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdoprof/)
